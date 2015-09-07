@@ -8,7 +8,7 @@ def count_words(textfile, n):
     file int -> list of str
     :param textfile: text file e.g. words.md
     :param n: natural number
-    :return: list of words in order of occurance and alfabetical
+    :return: list of words in order of occurance and alphabetical
 
     Time taken to complete the task: approx. an hour
     Sources: https://github.com/CrowdScores/py-wojciech/tree/master/001-counting-words
