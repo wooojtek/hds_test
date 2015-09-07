@@ -10,8 +10,9 @@ def count_words(textfile, n):
     :param n: natural number
     :return: list of words in order of occurance and alfabetical
 
-    Time taken to complete task: aprox. an hour
-    sources: https://github.com/CrowdScores/py-wojciech/tree/master/001-counting-words
+    Time taken to complete the task: approx. an hour
+    Sources: https://github.com/CrowdScores/py-wojciech/tree/master/001-counting-words
+
     """
 
     file = open(textfile, 'r+')
